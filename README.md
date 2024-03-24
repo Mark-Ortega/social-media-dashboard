@@ -1,3 +1,15 @@
+# Mark Ortega
+# Social Media Dashboard
+# in this project i created a social media dashboard in react using typescript and tailwindcss
+
+# 3/19/24
+# 3/24/24
+
+# Peer Reviewer:
+# Peer Review :
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
