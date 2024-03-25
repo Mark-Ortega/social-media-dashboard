@@ -8,6 +8,8 @@
 # Peer Reviewer: Jeriah Marson
 # Peer Review : The over all format is good and the light and dark mode works but the size of the boxes is a bit off but can be fixed in time. It is responsive is good. Generally the website is built correct and the information is all displayed in the correct location!
 
+# Note by mark: Sizing is off due to me working on the project on my pc monitor (which has different pixel sizes or something) but i just gotta turn this in 
+
 
 
 # Getting Started with Create React App
