@@ -5,8 +5,8 @@
 # 3/19/24
 # 3/24/24
 
-# Peer Reviewer:
-# Peer Review :
+# Peer Reviewer: Jeriah Marson
+# Peer Review : The over all format is good and the light and dark mode works but the size of the boxes is a bit off but can be fixed in time. It is responsive is good. Generally the website is built correct and the information is all displayed in the correct location!
 
 
 
